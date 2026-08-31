@@ -6,7 +6,7 @@
 Project Overview
 
 
-This project analyzes warehouse and logistics operations data to identify operational bottlenecks, capacity pressure, backlog patterns, and service-performance risks.
+This project analyzes warehouse/Shift level logistics operations data to identify operational bottlenecks, capacity pressure, backlog patterns, and service-performance risks.
 
 The analysis follows an end-to-end analytics workflow:
 
