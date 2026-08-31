@@ -1,0 +1,6 @@
+warehouse_id,shipments,avg_productivity,avg_utilization,backlog,backlog_rate,error_rate,on_time_delivery,high_pressure_periods,high_pressure_percet
+WH01,11274144,7.04,68.62,196564,1.0,0.85,95.54,81,7.4
+WH02,13458032,7.14,65.85,173104,0.72,0.85,95.56,68,6.21
+WH03,9411536,7.4,81.89,439460,2.93,0.93,94.78,190,17.35
+WH04,10200656,6.99,70.78,219093,1.29,0.86,95.41,96,8.77
+WH05,8035696,6.96,82.31,378520,2.91,0.95,94.84,182,16.62

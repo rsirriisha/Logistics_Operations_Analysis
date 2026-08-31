@@ -1,0 +1,6 @@
+warehouse_id,total_periods,high_pressure_periods,high_pressure_pct,avg_util,avg_on_time_deliv
+WH03,1095,211.0,19.27,81.89,94.78
+WH05,1095,205.0,18.72,82.31,94.84
+WH04,1095,100.0,9.13,70.78,95.41
+WH01,1095,87.0,7.95,68.62,95.54
+WH02,1095,73.0,6.67,65.85,95.56

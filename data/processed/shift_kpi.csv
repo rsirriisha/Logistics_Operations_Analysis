@@ -1,0 +1,4 @@
+shift_id,avg_produc,avg_util,total_backlog,avg_error_rate,avg_on_time_deliv,total_shipments
+S1,7.71,73.64,541096.0,0.89,95.29,20870520.0
+S2,7.14,71.66,424760.0,0.88,95.27,18336344.0
+S3,6.48,76.37,440885.0,0.9,95.11,13173200.0

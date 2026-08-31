@@ -1,0 +1,9 @@
+{
+    "workbench.editorAssociations": {
+        "*.xlsx": "cweijan.officeViewer",
+        "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default",
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.csv": "duckdb.dataFileViewer",
+        "*.tsv": "duckdb.dataFileViewer"
+    }
+}

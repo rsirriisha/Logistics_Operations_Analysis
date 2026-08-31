@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,region
+WH01,Brussels Hub,Brussels,Brussels
+WH02,Antwerp Hub,Antwerp,Flanders
+WH03,Liege Hub,Liege,Wallonia
+WH04,Ghent Hub,Ghent,Flanders
+WH05,Charleroi Hub,Charleroi,Wallonia

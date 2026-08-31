@@ -1,0 +1,9 @@
+Finding,Value,Interpretation
+Utilization vs Backlog,"r = 0.655, p < 0.001",Higher utilization is associated with higher backlog
+Utilization vs Error Rate,"r = 0.530, p < 0.001",Higher utilization is associated with higher error rate
+Utilization vs On-Time Delivery,"r = -0.634, p < 0.001",Higher utilization is associated with lower on-time delivery
+Backlog vs On-Time Delivery,"r = -0.764, p < 0.001",Higher backlog is associated with lower on-time delivery
+WH03 Backlog Rate,2.93%,Highest overall warehouse backlog rate
+WH05 Backlog Rate,2.91%,Second-highest overall warehouse backlog rate
+WH03 High-Pressure Rate,17.35%,Highest high-pressure frequency
+WH05 High-Pressure Rate,16.62%,Second-highest high-pressure frequency
