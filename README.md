@@ -234,7 +234,7 @@ This can help identify more targeted operational interventions.
 ## Tableau Dashboard
 
 **Interactive Dashboard**
-[View the Logistics Operations Dashboard]() [(https://public.tableau.com/authoring/OperationPerform/Dashboard2/Logistics_Operations_Performance#1)](%5Bpublic.tableau.com/authoring/OperationPerform/Dashboard2/Logistics_Operations_Performance#1%5D(https://public.tableau.com/authoring/OperationPerform/Dashboard2/Logistics_Operations_Performance#1))
+https://public.tableau.com/app/profile/aman4892/viz/OperationPerform/Dashboard2
 
 The dashboard provides:
 
@@ -250,7 +250,7 @@ Warehouse and shift filters
 
 
 ```Markdown
-![Tableau Dashboard](/Volumes/DATA/logist/Logistics_Operation_Dashboard.png)
+![Tableau Dashboard](https://github.com/rsirriisha/Logistics_Operations_Analysis/blob/main/Logistics%20Operation%20Dashboard.png))
 ```
 
 
